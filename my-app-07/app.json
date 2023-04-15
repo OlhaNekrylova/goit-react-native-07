@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "my-app-07",
-    "slug": "my-app-07",
+    "slug": "goit-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c7eb1066-e74d-4812-ba8c-e0e469d06959"
+      }
+    },
+    "owner": "olhanekrylova"
   }
 }
